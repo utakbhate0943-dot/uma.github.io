@@ -1,1 +1,3 @@
- tital: Uma's Homepage  description: Bookmark this page to keep an eye on my project update  theme: jekyll-theme-minimal 
+ tital: "Uma's Homepage"
+ description: "Bookmark this page to keep an eye on my project updates."
+ theme: "jekyll-theme-minimal"
